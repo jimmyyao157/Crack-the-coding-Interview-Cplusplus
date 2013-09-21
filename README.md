@@ -1,2 +1,3 @@
-Crack-the-coding-Interview-Cplusplus
+Copyright by Jimmy Yao
+CS department of Columbia University
 ====================================
